@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  font-size: 3em;
+  color: #dedede;
+  text-shadow: 1px 1px 1px #ccc;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
